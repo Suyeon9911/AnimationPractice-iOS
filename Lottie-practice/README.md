@@ -7,3 +7,11 @@
 
 [🔗 LottiePlayer ](https://svgsprite.com/tools/lottie-player/)   
 -> 디자이너가 넘겨운 JSON 파일이 정상적으로 작동되는지 확인하기 !
+
+
+간단하게 사용해본 결과 !
+
+
+https://user-images.githubusercontent.com/81313960/146889031-135f8884-21ad-47aa-b487-d888dd2f12b5.mp4
+
+
