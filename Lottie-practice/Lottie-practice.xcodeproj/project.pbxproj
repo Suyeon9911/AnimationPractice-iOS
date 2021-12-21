@@ -15,6 +15,7 @@
 		4DA2A71A2771AF4C0096F303 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4DA2A7192771AF4C0096F303 /* Assets.xcassets */; };
 		4DA2A71D2771AF4C0096F303 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DA2A71B2771AF4C0096F303 /* LaunchScreen.storyboard */; };
 		4DA2A7252771B1570096F303 /* seminar8-sample.json in Resources */ = {isa = PBXBuildFile; fileRef = 4DA2A7242771B1570096F303 /* seminar8-sample.json */; };
+		4DA2A7272771B6910096F303 /* christmas-tree.json in Resources */ = {isa = PBXBuildFile; fileRef = 4DA2A7262771B6910096F303 /* christmas-tree.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		4DA2A71C2771AF4C0096F303 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4DA2A71E2771AF4C0096F303 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4DA2A7242771B1570096F303 /* seminar8-sample.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "seminar8-sample.json"; sourceTree = "<group>"; };
+		4DA2A7262771B6910096F303 /* christmas-tree.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "christmas-tree.json"; sourceTree = "<group>"; };
 		6355E94F708F7F37B01C170E /* Pods_Lottie_practice.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Lottie_practice.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -56,6 +58,7 @@
 			isa = PBXGroup;
 			children = (
 				4DA2A7242771B1570096F303 /* seminar8-sample.json */,
+				4DA2A7262771B6910096F303 /* christmas-tree.json */,
 				4DA2A70F2771AF4A0096F303 /* Lottie-practice */,
 				4DA2A70E2771AF4A0096F303 /* Products */,
 				B3288DD2DDC6CDED73B81394 /* Pods */,
@@ -157,6 +160,7 @@
 				4DA2A71D2771AF4C0096F303 /* LaunchScreen.storyboard in Resources */,
 				4DA2A71A2771AF4C0096F303 /* Assets.xcassets in Resources */,
 				4DA2A7252771B1570096F303 /* seminar8-sample.json in Resources */,
+				4DA2A7272771B6910096F303 /* christmas-tree.json in Resources */,
 				4DA2A7182771AF4A0096F303 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
